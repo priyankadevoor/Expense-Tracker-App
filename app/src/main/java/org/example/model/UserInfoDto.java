@@ -17,3 +17,4 @@ public class UserInfoDto extends org.example.entities.UserInfo
 
 
 }
+
